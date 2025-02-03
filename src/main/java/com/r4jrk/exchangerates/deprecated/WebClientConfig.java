@@ -1,3 +1,4 @@
+package com.r4jrk.exchangerates.deprecated;
 // package com.r4jrk.exchangerates;
 
 // import org.springframework.context.annotation.Bean;

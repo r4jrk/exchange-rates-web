@@ -29,9 +29,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 // https://github.com/thawat-th/direct-print-service/blob/master/src/main/java/com/github/gdl/DirectPrintController.java
 
 @SpringBootApplication
-public class ExchangeRatesApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ExchangeRatesApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 }

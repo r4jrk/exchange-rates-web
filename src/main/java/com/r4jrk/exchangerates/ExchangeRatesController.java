@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class ExchangeRatesController {
 
     @GetMapping("/exchangerates")
-    public String exchangerates() {
+    public String getExchangeRates() {
         //model.addAttribute("name", name);
 	    return "exchangerates";
 	}

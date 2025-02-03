@@ -13,16 +13,3 @@ public record NbpApiResponse(String table, String currency, String code, List<Ra
 
 //    private static final String NBP_API_LINK = "http://api.nbp.pl/api/exchangerates/rates/a/EUR/2025-01-15/?format=json";
 // + sCurrencyInput + "/" + formattedDate + "/?format=json");
-
-// {
-//     "table": "A",
-//     "currency": "euro",
-//     "code": "EUR",
-//     "rates": [
-//       {
-//         "no": "009/A/NBP/2025",
-//         "effectiveDate": "2025-01-15",
-//         "mid": 4.2611
-//       }
-//     ]
-//   }
